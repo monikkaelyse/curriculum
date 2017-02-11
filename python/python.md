@@ -8,25 +8,41 @@
 
 ### Objective
 **Students will be able to** do something that we'll list here:
-- Things
-- More things
-- Even more things
+- Write a class, learn about classes and subclasses
+- Solve a problem using for loops
+- Learn about data structures and their uses
 - Even more things
 
 ### Specific Things To Teach
-- Lists and dictionaries
+- Data types and their uses
+	- Lists
+	- Dictionaries
+	- Integers
+	- Floats
+	- Strings
 - Functions
+	- Purpose of using functions
+	- Best practices
+	- How to write and call a function
+- Classes
+	- Purpose of classes, when to use classes over functions
+	- How to write a class
+	- Subclasses and their uses
+- Loops
+	- How to write for loops, what they're for
+	- List comprehensions
 - Debugging
 - Runtime
 - Datetime
-- Classes
 - Recursion
 - Package management
 
 ### Materials
 
-- [This website](example.com)
-- [This other website](otherexample.com)
+- [Learn Python the Hard Way](https://learnpythonthehardway.org/)
+- [Python Tutorials Point](https://www.tutorialspoint.com/python/)
+- [Python.org](https://www.python.org/)
+
 
 ### Mini Lesson
 
@@ -40,6 +56,7 @@ Make sure to mention these things:
 - More things
 - Even more things
 - Even more things
+
 
 
 ### Common Mistakes / Misconceptions
